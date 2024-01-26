@@ -2,6 +2,7 @@
 # January 27, 2024 (3/366)
 # https://www.codewars.com/kata/53dc54212259ed3d4f00071c
 
+# My Own:
 def sum_array(a):
     # Check whether the list is empty or not
     if len(a):
@@ -15,3 +16,7 @@ def sum_array(a):
         return sum
     else:
         return 0
+
+# Forum Best Answer (for me):
+# def sum_array(a):
+  # return sum(a)
