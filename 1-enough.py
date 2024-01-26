@@ -1,3 +1,7 @@
+# 2024 Coding Challenge
+# January 27, 2024 (1/366)
+# https://www.codewars.com/kata/5875b200d520904a04000003/
+
 def enough(cap, on, wait):
     # Calculate the remaining seats available
     rem = cap - on
