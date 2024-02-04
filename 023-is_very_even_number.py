@@ -31,5 +31,5 @@ def is_very_even_number(n):
 # 2
 def is_very_even_number(n):
     return n == 0 or (n - 1) % 9 % 2
-    # any number % 9 turns it into single digit (that sum of the digit)
+    # any number % 9 turns it into single digit (that sum of the digit) (except multiply by 9)
     # ex: 14 % 9 = 5, which is (1+4)
